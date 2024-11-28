@@ -1,0 +1,41 @@
+!
+! Title: Noxcivis Filter List
+! Description: My general list
+! Last modified: 2024-10-13 20:32:12
+!
+! Source name:  Noxcivis Filter List
+!
+# Noxcivis Filter List
+# I maintain this list for myself and my choices and opinions are my own
+# This is a supplementary list in addition to many others I use
+#
+# License: https://mit-license.org/
+#
+# Opinions and comments are my own.
+#
+ 
+0.0.0.0 fider.io # Paid Open Source
+0.0.0.0 piped.video # Test block
+0.0.0.0 foxnews.com # Misinformation and lies portraied as actual news
+0.0.0.0 forbes.com # Often horribly innacurate and biased
+0.0.0.0 quora.com # Low quality questions and answers
+0.0.0.0 temu.com # ew - no 
+0.0.0.0 logmein.com # Block remote access tools
+0.0.0.0 gotomypc.com # Block remote access tools
+0.0.0.0 ultraviewer.com # Block remote access tools
+0.0.0.0 wsj.com # Often horribly innacurate and biased
+0.0.0.0 hobbylobby.com # Hateful due to religion
+0.0.0.0 download.com # Malware
+0.0.0.0 vmware.com # Use Proxmox instead
+0.0.0.0 craigslist.com # Scary place
+0.0.0.0 craigslist.org # Scary place
+0.0.0.0 peta.com # See https://petakillsanimals.com
+0.0.0.0 peta.org # See https://petakillsanimals.com
+0.0.0.0 truthsocial.com # Toxic
+0.0.0.0 snapdeal.com # Sus
+0.0.0.0 notepad-plus-plus.org # Malware.  Shame because it is an awesome product.
+0.0.0.0 norton.com
+0.0.0.0 mcafee.com
+0.0.0.0 nordvpn.com
+0.0.0.0 twitter.com # Toxic and Hateful
+0.0.0.0 x.com # Toxic and Hateful
